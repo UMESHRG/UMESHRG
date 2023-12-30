@@ -1,8 +1,25 @@
-- 👋 Hi, I’m @UMESHRG
-- 👀 I’m interested in ...CODING
-- 🌱 I’m currently learning ...PYTHON
-- 💞️ I’m looking to collaborate on ...PYTHON
-- 📫 How to reach me ...BY H
+# 👋 Hi, I'm Umesh R G
+
+## 👀 About Me
+I'm a passionate coder currently exploring the world of Java programming. I love tackling complex problems and building solutions that make a positive impact.
+
+## 🌱 Currently Learning
+- Java Programming
+
+## 💼 Skills
+- Java
+- SQL
+- Jdbc
+- Hibernate
+- Spring
+
+## 🤝 I'm Open to Collaboration
+I'm actively seeking opportunities to collaborate on Java projects. If you have a cool project or idea, feel free to reach out!
+
+## 📫 How to Reach Me
+- Email: [umeshrg535@gmail.com](mailto:umeshrg535@gmail.com)
+- LinkedIn: [Umesh R G](https://www.linkedin.com/in/umesh-r-g/)
+
 
 <!---
 UMESHRG/UMESHRG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
