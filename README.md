@@ -11,7 +11,8 @@ I'm a passionate coder currently exploring the world of Java programming. I love
 - SQL
 - Jdbc
 - Hibernate
-- Spring
+- HTML
+- CSS
 
 ## 🤝 I'm Open to Collaboration
 I'm actively seeking opportunities to collaborate on Java projects. If you have a cool project or idea, feel free to reach out!
